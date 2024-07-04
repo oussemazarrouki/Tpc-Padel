@@ -11,7 +11,6 @@ function App() {
       <Hero></Hero>
       {/* Tournaments */}
       <Footer></Footer>
-      ok
 
     </>
   )
