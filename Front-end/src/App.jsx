@@ -10,6 +10,7 @@ function App() {
       <Header></Header>
       <Hero></Hero>
       {/* Tournaments */}
+      ok
       <Footer></Footer>
 
     </>
